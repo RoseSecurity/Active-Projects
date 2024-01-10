@@ -31,6 +31,10 @@
   - ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets. The tool dives deep to discover keywords and phrases leading to potential passwords or hidden directories.
   - ![Scrap](https://progress-bar.dev/80?title=Maintainers)
 
+- [FaviconLocator](https://github.com/ArgeliusLabs/FaviconLocator.git)
+  - Computes the hashes of a favicon file and provides the search syntax for Shodan, Censys and Zoomeye.
+  - ![Favicon](https://progress-bar.dev/30?title=Python)
+
 ## Resources
 
 - [RoseSecurity GitHub](https://github.com/RoseSecurity-Research)
